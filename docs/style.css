@@ -183,7 +183,8 @@ main {
 }
 
 .featured-video,
-.card {
+.card,
+.info-box {
   overflow: hidden;
   background: var(--card);
   border: 1px solid var(--border);
@@ -269,6 +270,23 @@ main {
   border-radius: 14px;
   background: rgba(255, 255, 255, 0.82);
   color: var(--muted);
+}
+
+.info-box {
+  padding: 18px;
+}
+
+.imprint-box {
+  background: rgba(255, 255, 255, 0.92);
+}
+
+.imprint-box p {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.imprint-box p:last-child {
+  margin-bottom: 0;
 }
 
 footer {
