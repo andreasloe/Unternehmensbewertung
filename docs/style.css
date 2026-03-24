@@ -149,6 +149,11 @@ main {
   margin-bottom: 34px;
 }
 
+.featured-grid.single {
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 760px;
+}
+
 .section {
   margin-bottom: 42px;
 }
