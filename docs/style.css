@@ -183,11 +183,7 @@ main {
 }
 
 .subtle-emphasis {
-  display: inline-block;
-  padding: 0.05rem 0.42rem;
-  border-radius: 999px;
-  background: rgba(148, 163, 184, 0.18);
-  color: #344054;
+  font-style: italic;
   font-weight: 600;
 }
 
