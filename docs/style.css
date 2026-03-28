@@ -182,6 +182,11 @@ main {
   margin-bottom: 0;
 }
 
+.subtle-emphasis {
+  font-weight: 600;
+  color: #475467;
+}
+
 .featured-video,
 .card,
 .info-box {
