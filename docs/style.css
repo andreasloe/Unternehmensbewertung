@@ -287,6 +287,10 @@ main {
   white-space: nowrap;
 }
 
+.card .meta {
+  grid-row: 1;
+}
+
 .featured-video .meta {
   font-size: 1.5rem;
   line-height: 1.3;
