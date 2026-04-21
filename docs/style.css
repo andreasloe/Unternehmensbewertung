@@ -370,6 +370,8 @@ footer p {
     grid-template-columns: 1fr;
   }
 
+  .card .meta,
+  .featured-video .meta,
   .meta {
     grid-column: 1;
     grid-row: auto;
