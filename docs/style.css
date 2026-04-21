@@ -237,6 +237,7 @@ main {
 
 .card .content {
   padding: 12px 14px 16px;
+  align-items: start;
 }
 
 .eyebrow {
