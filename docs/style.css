@@ -287,10 +287,6 @@ main {
   white-space: nowrap;
 }
 
-.meta a {
-  font-weight: 700;
-}
-
 .featured-video .meta {
   font-size: 1.5rem;
   line-height: 1.3;
